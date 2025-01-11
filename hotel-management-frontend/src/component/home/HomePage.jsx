@@ -19,14 +19,14 @@ const HomePage = () =>{
 
             <section>
                 <header className="header-banner">
-                    <img src="./assets/images/hotel.webp" alt="Krishna Hotel" className="header-image" />
+                    <img src="./assets/images/hotel.webp" alt="Hotel Image" className="header-image" />
                     <div className="overlay"></div>
                     <div className="animated-texts overlay-content">
                         <h1>
-                            Welcome to <span className="Krishna-color">Krishna Hotel</span>
+                            Welcome to <span className="Krishna-color">Our Hotel</span>
 
                         </h1><br />
-                        <h3>Experience Comfort, Luxury and Care - Krishna Hotel, Your Perfect Stay Awaits!</h3>
+                        <h3>Experience Comfort, Luxury and Care, Your Perfect Stay Awaits!</h3>
                     </div>
                 </header>
             </section>
@@ -41,7 +41,7 @@ const HomePage = () =>{
 
             <h4><a className="view-rooms-home" href="/rooms">All Rooms</a></h4>
 
-            <h2 className="home-services">Services at <span className="Krishna-color">Krishna Hotel</span></h2>
+            <h2 className="home-services">Services at <span className="Krishna-color">Our Hotel</span></h2>
 
 
 
